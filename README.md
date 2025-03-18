@@ -1,0 +1,1 @@
+This repository implements 3D reconstruction techniques for radiographic and angiographic imaging. Methods include Direct Linear Transform (DLT) calibration, epipolar constraints, and error analysis in digital imaging.
